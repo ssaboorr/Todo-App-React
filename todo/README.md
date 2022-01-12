@@ -1,3 +1,29 @@
+# Todo App
+
+This App is built in React js with the help of React Hooks.
+
+## Styling:
+ 
+Chakra Ui is used for basic styling and react-icons for Icons.
+
+https://chakra-ui.com/docs/getting-started
+
+https://react-icons.github.io/react-icons
+
+### Installation: 
+
+npm i @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^5
+
+npm install react-icons --save
+
+## Live Demo:
+
+https://things-to-doo.netlify.app/
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
