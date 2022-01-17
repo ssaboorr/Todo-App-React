@@ -43,7 +43,7 @@ const TaskInput = () => {
     console.log("clickde");
   };
 
-  const deleteTask = (task) => setTodos(todos.filter((todo) => todo != task));
+  const deleteTask = (task) => setTodos(todos.filter((todo) => todo !== task));
   return (
     <Flex p="10" m="5" justify="center" flexDirection="column" wrap="wrap">
       <FormControl>
